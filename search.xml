@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title>人生がときめく片付けの魔法</title>
+      <link href="/2018/04/15/12/"/>
+      <url>/2018/04/15/12/</url>
+      <content type="html"><![CDATA[<p>片付けとは</p><ul><li>ものを捨てる</li><li>定位置を決める</li></ul><p>この2つのみ<br>片付けは毎日するものではなく、一回で終わらせるもの<br>あとは決めた位置に戻せば散らからない<br>　‎</p><h4 id="捨てる"><a href="#捨てる" class="headerlink" title="捨てる"></a><strong>捨てる</strong></h4><ul><li>思い出の品は後回しにしないと時間を食われる</li><li>捨てるか捨てないかの基準はときめくかときめかないか（衣服なら、次の時期にも着たいと思えるかなど）</li></ul><p><strong>衣服</strong></p><ul><li>捨てる基準はときめくかときめかないか（次の時期にも着たいと思えるか）</li><li>捨てずに部屋着にするのはNG　後回しにしてるだけ　部屋着と外着の役割は違う</li></ul><p><strong>書類</strong><br>全部捨てるが基本<br>未処理、保存（契約書類）、保存（契約書以外）に分ける</p><ul><li>どうしても置いておかなければいけないもの（契約書類）‎</li><li>しばらく必要なもの（保証書など）</li><li>まだ処理をしていないもの</li></ul><p>の三つに分類する<br>この3つに分類されないものは全て捨てる</p><ul><li>説明書、セミナー資料などは取っておいても結局読まない</li><li>未処理コーナーを作ることで分別を早くする</li></ul><p><strong>機器の箱</strong></p><ul><li>全部捨てる</li><li>いつ来るかわからないタイミングに備えるより、それまでの期間無駄になるスペースのほうが大きい</li></ul><h4 id="定位置を決める"><a href="#定位置を決める" class="headerlink" title="定位置を決める"></a><strong><em>定位置を決める</em></strong></h4><ul><li>しまうものは分散させず、同一カテゴリごとに同じ場所にしまう</li><li>種類ごとにしまえば持ち物を把握でき、無駄な買い物が減る</li></ul><h4 id="まとめ"><a href="#まとめ" class="headerlink" title="まとめ"></a><strong>まとめ</strong></h4><p>捨てられない原因は</p><ul><li>過去に対する執着</li><li>未来に対する不安</li></ul><p>のいずれか<br>原因を考えることで自分が人生でもどっちで悩みやすいタイプなのかわかる</p><p>モノを捨てる決断を行うことで決断力が磨かれる<br>片付けをしたあとに過去にやっていたことを思い出してみる<br>片付けをしてみて残したときめくものは過去から変わらず好きなものの可能性が高い</p><hr><h4 id="自己メモ"><a href="#自己メモ" class="headerlink" title="自己メモ"></a><strong>自己メモ</strong></h4><p>自分は「今後使うかもしれないから取っておく」パターンが多い</p><ul><li>考えてみると、取って置いてけど使った試しがないものが多い</li><li>「デザインに飽きた」「やらなくなった趣味のもの」など、すでに役目を終えたものは捨てる</li></ul><p><strong>過去を思い出す</strong></p><ul><li>遊ぶもの,道具は自分で作っていた</li><li>料理・お菓子作り・プログラム　すべて「自分が作ったもので人が喜ぶ」ものである</li><li>FPSにハマった時は「チームで勝つためにはどう改善していけばいいか」を常に考えていた</li></ul>]]></content>
+      
+      <categories>
+          
+          <category> Books </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 片付け </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>Box API</title>
+      <link href="/2018/04/11/11/"/>
+      <url>/2018/04/11/11/</url>
+      <content type="html"><![CDATA[<p>自動アップロード<br>フォルダ内取得など色々できる</p><p>各言語のSDKも配布されていて使いやすい<br><a href="https://developer.box.com/docs/sdks" target="_blank" rel="noopener">box SDKs</a></p>]]></content>
+      
+      <categories>
+          
+          <category> Tech </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Box </tag>
+            
+            <tag> SDK </tag>
+            
+            <tag> クラウドストレージ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>windowsのSublimeTextで拡張子の関連付けができない</title>
+      <link href="/2018/04/10/10/"/>
+      <url>/2018/04/10/10/</url>
+      <content type="html"><![CDATA[<ul><li>ファイル名を指定して実行 「regedit」でレジストリエディタ起動</li><li>HKEY_CLASSES_ROOT\Applications\</li><li>配下あるsublimeのレジストリ情報を削除</li></ul><p>※レジストリを触るのことになるので要注意しながら作業する</p>]]></content>
+      
+      <categories>
+          
+          <category> Tech </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> SublimeText </tag>
+            
+            <tag> windows </tag>
+            
+            <tag> TIPS </tag>
+            
+            <tag> tool </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>windowsクリップボード履歴ツール</title>
+      <link href="/2018/04/10/9/"/>
+      <url>/2018/04/10/9/</url>
+      <content type="html"><![CDATA[<p>Clibor</p><ul><li>コピペの際に便利</li><li>クリップボードの履歴を辿って再コピーできる</li></ul><p><a href="https://forest.watch.impress.co.jp/library/software/clibor/" target="_blank" rel="noopener">Clibor</a></p>]]></content>
+      
+      <categories>
+          
+          <category> Tech </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> windows </tag>
+            
+            <tag> tool </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>バリュープロポジションマップ</title>
+      <link href="/2018/04/10/8/"/>
+      <url>/2018/04/10/8/</url>
+      <content type="html"><![CDATA[<p>バリュープロポジションを設計するために<br>顧客のニーズと企業が提供できる価値を１つに表す図</p><p>バリュープロポジションとは</p><ul><li>顧客が望んでいて、競合他社には提供できず、自社には提供できるもの</li><li>自社のサービスや製品を通じて提供する価値</li><li>直感的にわかりやすいものが良い</li></ul><p>メモ</p><ul><li>顧客は商品を「安さ」「多機能」で選ばない　「ニーズの一致」で商品を選ぶ</li><li>ニーズに何でも答える顧客絶対主義とは違う</li><li>顧客が「これだけは絶対欲しい」「どうしても欲しい」ものを狙う</li></ul><p><a href="https://www.mugendai-web.jp/archives/7654" target="_blank" rel="noopener">戦わずして勝つ。 ――それが、“バリュー・プロポジション”の極意</a><br><a href="https://blog.kairosmarketing.net/contentmarketing/value-proposition/" target="_blank" rel="noopener">良いバリュープロポジションを作る５つのコツ</a><br><a href="https://business-1.net/value_propsition/https://business-1.net/value_propsition/" target="_blank" rel="noopener">バリュープロポジション(キャンバス)の意味と例を図解</a></p>]]></content>
+      
+      <categories>
+          
+          <category> Marketing </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> フレームワーク </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>ビジネスモデルキャンバス</title>
+      <link href="/2018/04/07/7/"/>
+      <url>/2018/04/07/7/</url>
+      <content type="html"><![CDATA[<p>ビジネスを考える際に必要な構成要素を9つに分類し、<br>１枚の紙に相互関係を示すフレームワーク<br>自分が気づいてない観点の発見、抜け漏れの防止に便利</p><p>メモ</p><ul><li>ペルソナを作成後に、CSの枠にペルソナを当てはめて考えると、スムーズに進みますい</li><li>KP, KAなどの単語のみのデフォルトシートだと直感的にわかりにくい　日本語で「KP（そのビジネスに関わってくる自社以外の関係会社）」などを記載しておくと、直感的に理解でき発想が進みやすくなる</li><li>これを使うことで技術屋に欠けがちな「その技術を使うことで顧客に何のメリットがあるか」に気づきやすい</li></ul><p><a href="https://kigyotv.jp/news/canvas/" target="_blank" rel="noopener">ビジネスモデルキャンバスとは?　９つの視点で貴方のビジネスプランを丸裸に!</a></p>]]></content>
+      
+      <categories>
+          
+          <category> Marketing </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> フレームワーク </tag>
+            
+            <tag> ビジネスモデル </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>ペルソナマーケティング</title>
+      <link href="/2018/04/05/6/"/>
+      <url>/2018/04/05/6/</url>
+      <content type="html"><![CDATA[<p>WebのUI,UX設計でよく聞くやり方<br>ペルソナを明確化することでターゲットが明確化され、<br>後工程での設計・構築の際にスムーズに進めることができる</p><p>マーケの人から聞いたメモ</p><ul><li>ペルソナは妄想で問題ない　実際にいそうな人物像を作り上げる</li><li>作成したペルソナの人物が「欲しい」と思うものを開発する</li><li>分析結果を元にし、さらに絞り込むためにペルソナに落とす</li></ul><p>例）じゃがビー→20~30代のお菓子離れが多い　そこを深掘りしてターゲットを決定</p><p><a href="http://scrmble.jp/313/" target="_blank" rel="noopener">カルビーの大ヒット商品・ジャガビーから学ぶペルソナマーケティングの事例</a></p>]]></content>
+      
+      <categories>
+          
+          <category> Marketing </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ペルソナ </tag>
+            
+            <tag> フレームワーク </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>hexoに検索機能を組み込み</title>
+      <link href="/2018/04/05/5/"/>
+      <url>/2018/04/05/5/</url>
+      <content type="html"><![CDATA[<p><a href="https://qiita.com/jhChoi/items/85f3b5ba39619bc47f4d" target="_blank" rel="noopener">Hexoでブログを作成する時のTipsまとめ</a><br>この記事見ながら組み込んだら簡単にできた<br>他の検索機能も見て見たが、これが一番簡単に導入できそう</p><ul><li>bulmaに合わせて、検索結果表示部分をul liからtableに変更</li><li>検索にタグも引っかかるように改変したい</li></ul>]]></content>
+      
+      <categories>
+          
+          <category> Tech </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>ピザ</title>
+      <link href="/2018/04/04/4/"/>
+      <url>/2018/04/04/4/</url>
+      <content type="html"><![CDATA[<ul><li>かなり薄めに作らないとパンみたいになる</li><li>特に耳要注意</li></ul><p><a href="https://cookpad.com/recipe/1898301" target="_blank" rel="noopener">簡単ピザ生地♪</a><br><a href="https://cookpad.com/recipe/418632" target="_blank" rel="noopener">混ぜるだけ即席ピザソース♪</a></p>]]></content>
+      
+      <categories>
+          
+          <category> Cooking </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> レシピ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>いろいろな糸の結び方</title>
+      <link href="/2018/04/04/3/"/>
+      <url>/2018/04/04/3/</url>
+      <content type="html"><![CDATA[<p>試しにジグヘッドをダブルクリンチノットで<br>結んでみたら１０分ぐらいかかった</p><p>リールの糸巻き：<a href="https://medium.com/@suzukikeita/%E5%88%9D%E3%82%81%E3%81%A6%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%AB%E7%B3%B8%E5%B7%BB%E3%81%8D-84ae657e786e" target="_blank" rel="noopener">はじめてのリール糸巻き</a><br>いろいろ結び方：<a href="https://tsurihack.com/484" target="_blank" rel="noopener">釣り糸の結び方おすすめ10選！簡単で強いノットをチェックしよう！</a></p>]]></content>
+      
+      <categories>
+          
+          <category> Fishing </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> TIPS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>SublimeText3でsjisが文字化け</title>
+      <link href="/2018/04/04/2/"/>
+      <url>/2018/04/04/2/</url>
+      <content type="html"><![CDATA[<p>他人の作ったteratermマクロを<br>改変しようと開いたら化けた</p><p><a href="https://qiita.com/M_amourr/items/f1d4bca6d8ada928705a" target="_blank" rel="noopener">sublimeの日本語文字化けを直す</a><br>Codecs33無くても大丈夫だった<br>というかパッケージが存在しない</p>]]></content>
+      
+      <categories>
+          
+          <category> Tech </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> SublimeText </tag>
+            
+            <tag> TIPS </tag>
+            
+            <tag> tool </tag>
+            
+            <tag> sjis </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>Hexoでブログ作成</title>
+      <link href="/2018/04/03/1/"/>
+      <url>/2018/04/03/1/</url>
+      <content type="html"><![CDATA[<ul><li>やったことのログを残したい</li><li>かといってブログを書くのは面倒臭い</li><li>せっかくbulma,pugを覚えたので何か作りたい</li></ul><p>ということでhexoのテーマをpugとbulmaでサクッと作って公開してみた<br>記事量が溜まってきたら検索機能もつけたい</p>]]></content>
+      
+      <categories>
+          
+          <category> Tech </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> bulma </tag>
+            
+            <tag> pug </tag>
+            
+        </tags>
+      
+    </entry>
+    
+  
+  
+</search>
