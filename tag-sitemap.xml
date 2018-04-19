@@ -65,6 +65,13 @@
     </url>
 
     <url>
+        <loc>http://magurororo.github.io/tags/sjis/</loc>
+        <lastmod>2018-04-10T08:56:53.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://magurororo.github.io/tags/TIPS/</loc>
         <lastmod>2018-04-10T08:56:53.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -73,13 +80,6 @@
 
     <url>
         <loc>http://magurororo.github.io/tags/tool/</loc>
-        <lastmod>2018-04-10T08:56:53.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://magurororo.github.io/tags/sjis/</loc>
         <lastmod>2018-04-10T08:56:53.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -108,7 +108,28 @@
 
     <url>
         <loc>http://magurororo.github.io/tags/%E7%89%87%E4%BB%98%E3%81%91/</loc>
-        <lastmod>2018-04-15T14:54:47.000Z</lastmod>
+        <lastmod>2018-04-15T14:56:05.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://magurororo.github.io/tags/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A/</loc>
+        <lastmod>2018-04-19T08:20:09.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://magurororo.github.io/tags/Docker/</loc>
+        <lastmod>2018-04-19T08:20:09.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://magurororo.github.io/tags/HypriotOS/</loc>
+        <lastmod>2018-04-19T08:20:09.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

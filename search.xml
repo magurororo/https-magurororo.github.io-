@@ -3,6 +3,31 @@
   
     
     <entry>
+      <title>HypriotOS</title>
+      <link href="/2018/04/19/13/"/>
+      <url>/2018/04/19/13/</url>
+      <content type="html"><![CDATA[<p>Raspberry Pi（ARM）用のDockerホストOS<br>rasbianベース？のため使いやすそう</p><p>KubernetesのHow to Install的なページにHypriotOSも掲載されている（割と有名？）</p><p><a href="http://blog.hypriot.com/" target="_blank" rel="noopener">HypriotOS公式サイト</a></p><p>※docker hubのほぼすべてのコンテナがx86で、armのコンテナは少ない</p>]]></content>
+      
+      <categories>
+          
+          <category> Tech </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> コンテナ </tag>
+            
+            <tag> Docker </tag>
+            
+            <tag> HypriotOS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>人生がときめく片付けの魔法</title>
       <link href="/2018/04/15/12/"/>
       <url>/2018/04/15/12/</url>
@@ -65,11 +90,11 @@
             
             <tag> SublimeText </tag>
             
-            <tag> windows </tag>
-            
             <tag> TIPS </tag>
             
             <tag> tool </tag>
+            
+            <tag> windows </tag>
             
         </tags>
       
@@ -90,9 +115,9 @@
       
         <tags>
             
-            <tag> windows </tag>
-            
             <tag> tool </tag>
+            
+            <tag> windows </tag>
             
         </tags>
       
@@ -245,11 +270,11 @@
             
             <tag> SublimeText </tag>
             
+            <tag> sjis </tag>
+            
             <tag> TIPS </tag>
             
             <tag> tool </tag>
-            
-            <tag> sjis </tag>
             
         </tags>
       
